@@ -1,4 +1,4 @@
-![Todo List]("https://github.com/shaansuraj/todo-list/blob/main/todo.png?raw=true")
+![]("https://github.com/shaansuraj/todo-list/blob/main/todo.png?raw=true")
 
 
 #Languages Used
