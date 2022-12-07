@@ -1,4 +1,10 @@
-![Todo List]("https://github.com/shaansuraj/todo-list/blob/main/todo.png")_
+![Todo List](["https://github.com/shaansuraj/todo-list/blob/main/todo.png")
+
+
+#Features
+
+Add tasks by simply writing it down in the "content" section in App.js file in the src directory.
+Tick and Untick the tasks as required
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
