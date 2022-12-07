@@ -1,5 +1,7 @@
 ![]("https://github.com/shaansuraj/todo-list/blob/main/todo.jpeg")
-
+<p>
+    <img src="todo.jpeg" width="220" height="240" />
+</p>
 
 #Languages Used
 
