@@ -3,20 +3,20 @@
     <img src="todo.jpeg" width="1000" height="500" />
 </p>
 
-#Languages Used
+## Languages Used
 
-React.js
+### React.js
 
-#Editor Used
+## Editor Used
 
-VS Code
+### VS Code
 
-#Features
+## Features
 
-Add tasks by simply writing it down in the "content" section in App.js file in the src directory.
+### Add tasks by simply writing it down in the "content" section in App.js file in the src directory.
 Tick and Untick the tasks as required
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
