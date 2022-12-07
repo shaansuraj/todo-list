@@ -1,6 +1,14 @@
 ![Todo List](["https://github.com/shaansuraj/todo-list/blob/main/todo.png")
 
 
+#Languages Used
+
+React.js
+
+#Editor Used
+
+VS Code
+
 #Features
 
 Add tasks by simply writing it down in the "content" section in App.js file in the src directory.
