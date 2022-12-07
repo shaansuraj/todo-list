@@ -1,3 +1,5 @@
+![Todo List]("https://github.com/shaansuraj/todo-list/blob/main/todo.png?raw=true")_
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
